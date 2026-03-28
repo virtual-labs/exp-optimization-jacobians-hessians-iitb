@@ -1,0 +1,47 @@
+[
+    {
+      "question": "What does the Jacobian matrix represent?",
+      "qid": 1,
+      "option_a": "Second order partial derivatives of a function",
+      "option_b": "First order partial derivatives of vector functions",
+      "option_c": "Determinant of a matrix",
+      "option_d": "Gradient of a scalar function",
+      "correct_option": "b"
+    },
+    {
+      "question": "If $$F(x,y) = (x^2 + y,\\; xy)$$, what is the Jacobian matrix?",
+      "qid": 2,
+      "option_a": "$$\\begin{bmatrix}2x & 1 \\\\ y & x\\end{bmatrix}$$",
+      "option_b": "$$\\begin{bmatrix}x & y \\\\ 2x & 1\\end{bmatrix}$$",
+      "option_c": "$$\\begin{bmatrix}2 & 1 \\\\ y & x\\end{bmatrix}$$",
+      "option_d": "$$\\begin{bmatrix}2x & y \\\\ 1 & x\\end{bmatrix}$$",
+      "correct_option": "a"
+    },
+    {
+      "question": "The Jacobian matrix of a function $$F: \\mathbb{R}^n \\rightarrow \\mathbb{R}^m$$ has dimensions:",
+      "qid": 3,
+      "option_a": "$$n \\times m$$",
+      "option_b": "$$m \\times n$$",
+      "option_c": "$$n \\times n$$",
+      "option_d": "$$m \\times m$$",
+      "correct_option": "b"
+    },
+    {
+      "question": "The Hessian matrix contains:",
+      "qid": 4,
+      "option_a": "First order derivatives",
+      "option_b": "Second order partial derivatives",
+      "option_c": "Determinants of derivatives",
+      "option_d": "Integrals of functions",
+      "correct_option": "b"
+    },
+    {
+      "question": "What is the Hessian matrix of $$f(x,y) = x^2 + y^2$$?",
+      "qid": 5,
+      "option_a": "$$\\begin{bmatrix}2 & 0 \\\\ 0 & 2\\end{bmatrix}$$",
+      "option_b": "$$\\begin{bmatrix}x & y \\\\ y & x\\end{bmatrix}$$",
+      "option_c": "$$\\begin{bmatrix}2x & 0 \\\\ 0 & 2y\\end{bmatrix}$$",
+      "option_d": "$$\\begin{bmatrix}1 & 1 \\\\ 1 & 1\\end{bmatrix}$$",
+      "correct_option": "a"
+    }
+  ]
