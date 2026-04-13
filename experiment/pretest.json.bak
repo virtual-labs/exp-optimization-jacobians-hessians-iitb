@@ -11,19 +11,19 @@
     {
       "question": "If <span style='display:inline-block;'> $$F(x,y) = (x^2 + y,\\; xy)$$ </span>, what is the Jacobian matrix?",
       "qid": 2,
-      "option_a": "$$\\begin{bmatrix}2x & 1 \\\\ y & x\\end{bmatrix}$$",
-      "option_b": "$$\\begin{bmatrix}x & y \\\\ 2x & 1\\end{bmatrix}$$",
-      "option_c": "$$\\begin{bmatrix}2 & 1 \\\\ y & x\\end{bmatrix}$$",
-      "option_d": "$$\\begin{bmatrix}2x & y \\\\ 1 & x\\end{bmatrix}$$",
+      "option_a": "<span style='display:inline-block;'>$$\\begin{bmatrix}2x & 1 \\\\ y & x\\end{bmatrix}$$</span>",
+      "option_b": "<span style='display:inline-block;'>$$\\begin{bmatrix}x & y \\\\ 2x & 1\\end{bmatrix}$$</span>",
+      "option_c": "<span style='display:inline-block;'>$$\\begin{bmatrix}2 & 1 \\\\ y & x\\end{bmatrix}$$</span>",
+      "option_d": "<span style='display:inline-block;'>$$\\begin{bmatrix}2x & y \\\\ 1 & x\\end{bmatrix}$$</span>",
       "correct_option": "a"
     },
     {
-      "question": "The Jacobian matrix of a function $$F: \\mathbb{R}^n \\rightarrow \\mathbb{R}^m$$ has dimensions:",
+      "question": "The Jacobian matrix of a function <span style='display:inline-block;'>$$F: \\mathbb{R}^n \\rightarrow \\mathbb{R}^m$$</span> has dimensions:",
       "qid": 3,
-      "option_a": "$$n \\times m$$",
-      "option_b": "$$m \\times n$$",
-      "option_c": "$$n \\times n$$",
-      "option_d": "$$m \\times m$$",
+      "option_a": "<span style='display:inline-block;'>$$n \\times m$$</span>",
+      "option_b": "<span style='display:inline-block;'>$$m \\times n$$</span>",
+      "option_c": "<span style='display:inline-block;'>$$n \\times n$$</span>",
+      "option_d": "<span style='display:inline-block;'>$$m \\times m$$</span>",
       "correct_option": "b"
     },
     {
@@ -36,12 +36,12 @@
       "correct_option": "b"
     },
     {
-      "question": "What is the Hessian matrix of $$f(x,y) = x^2 + y^2$$?",
+      "question": "What is the Hessian matrix of <span style='display:inline-block;'>$$f(x,y) = x^2 + y^2$$</span>?",
       "qid": 5,
-      "option_a": "$$\\begin{bmatrix}2 & 0 \\\\ 0 & 2\\end{bmatrix}$$",
-      "option_b": "$$\\begin{bmatrix}x & y \\\\ y & x\\end{bmatrix}$$",
-      "option_c": "$$\\begin{bmatrix}2x & 0 \\\\ 0 & 2y\\end{bmatrix}$$",
-      "option_d": "$$\\begin{bmatrix}1 & 1 \\\\ 1 & 1\\end{bmatrix}$$",
+      "option_a": "<span style='display:inline-block;'>$$\\begin{bmatrix}2 & 0 \\\\ 0 & 2\\end{bmatrix}$$</span>",
+      "option_b": "<span style='display:inline-block;'>$$\\begin{bmatrix}x & y \\\\ y & x\\end{bmatrix}$$</span>",
+      "option_c": "<span style='display:inline-block;'>$$\\begin{bmatrix}2x & 0 \\\\ 0 & 2y\\end{bmatrix}$$</span>",
+      "option_d": "<span style='display:inline-block;'>$$\\begin{bmatrix}1 & 1 \\\\ 1 & 1\\end{bmatrix}$$</span>",
       "correct_option": "a"
     }
   ]
