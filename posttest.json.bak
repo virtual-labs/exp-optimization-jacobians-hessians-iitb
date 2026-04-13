@@ -1,0 +1,47 @@
+[
+   {
+     "question": "If <span style='display:inline-block;'>$$f(x,y) = xy$$</span>, what is <span style='display:inline-block;'>$$\\frac{\\partial^2 f}{\\partial x \\partial y}$$</span>?",
+     "qid": 6,
+     "option_a": "0",
+     "option_b": "1",
+     "option_c": "x",
+     "option_d": "y",
+     "correct_option": "b"
+   },
+   {
+     "question": "The Hessian matrix of a function <span style='display:inline-block;'>$$f: \\mathbb{R}^n \\rightarrow \\mathbb{R}$$</span> is of size:",
+     "qid": 7,
+     "option_a": "<span style='display:inline-block;'>$$n \\times 1$$</span>",
+     "option_b": "<span style='display:inline-block;'>$$1 \\times n$$</span>",
+     "option_c": "<span style='display:inline-block;'>$$n \\times n$$</span>",
+     "option_d": "<span style='display:inline-block;'>$$m \\times n$$</span>",
+     "correct_option": "c"
+   },
+   {
+     "question": "Which of the following is true about the Hessian matrix (for well-behaved functions)?",
+     "qid": 8,
+     "option_a": "It is always triangular",
+     "option_b": "It is symmetric",
+     "option_c": "It is diagonal",
+     "option_d": "It is zero",
+     "correct_option": "b"
+   },
+   {
+     "question": "The Jacobian determinant is commonly used in:",
+     "qid": 9,
+     "option_a": "Optimization",
+     "option_b": "Coordinate transformations",
+     "option_c": "Differential equations only",
+     "option_d": "Matrix multiplication",
+     "correct_option": "b"
+   },
+   {
+     "question": "For <span style='display:inline-block;'>$$F(x,y) = (x+y,\\; x-y)$$</span>, what is the Jacobian determinant?",
+     "qid": 10,
+     "option_a": "0",
+     "option_b": "1",
+     "option_c": "-2",
+     "option_d": "-1",
+     "correct_option": "c"
+   }
+ ]
