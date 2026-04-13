@@ -9,7 +9,7 @@
       "correct_option": "b"
     },
     {
-      "question": "If $$F(x,y) = (x^2 + y,\\; xy)$$, what is the Jacobian matrix?",
+      "question": "If <span style='display:inline-block;'> $$F(x,y) = (x^2 + y,\\; xy)$$ </span>, what is the Jacobian matrix?",
       "qid": 2,
       "option_a": "$$\\begin{bmatrix}2x & 1 \\\\ y & x\\end{bmatrix}$$",
       "option_b": "$$\\begin{bmatrix}x & y \\\\ 2x & 1\\end{bmatrix}$$",
